@@ -1,4 +1,6 @@
 # Holydev
+<img src="holydev.png" width="256"/>
+
 Folder for website projects developers
 
 # Project Folder Structure Guide
